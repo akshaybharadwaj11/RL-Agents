@@ -60,7 +60,7 @@ This repo demonstrates the implementation of Deep Q-Learning for playing Atari 2
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/airraid-dqn.git
+git clone https://github.com/akshaybharadwaj11/RL-Agents.git
 cd airraid-dqn
 ```
 
@@ -100,7 +100,7 @@ pip install gymnasium[atari,accept-rom-license]
 * **Performance Analysis** - Comparative analysis of all configurations
 * **Model Testing** - Test trained agents over multiple episodes
 
-[Training and Eval](Notebooks/airraid-rl-agent.ipynb)
+* [Training and Eval](Notebooks/airraid-rl-agent.ipynb)
 
 
 ### Inference & Visualization
