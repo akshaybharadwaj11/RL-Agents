@@ -89,20 +89,23 @@ pip install gymnasium[atari,accept-rom-license]
 
 ### Training
 
-* **[Baseline Training](notebooks/01_baseline_training.ipynb)** - Standard DQN with ε-greedy exploration
-* **[Boltzmann Agent Training](notebooks/02_boltzmann_training.ipynb)** - Softmax exploration strategy
-* **[Fast Decay Training](notebooks/03_fast_decay_training.ipynb)** - Accelerated epsilon decay schedule
-* **[High Alpha Training](notebooks/04_high_alpha_training.ipynb)** - Increased learning rate (0.001)
-* **[Low Gamma Training](notebooks/05_low_gamma_training.ipynb)** - Reduced discount factor (0.9)
+* **Baseline Training** - Standard DQN with ε-greedy exploration
+* **Boltzmann Agent Training** - Softmax exploration strategy
+* **Fast Decay Training** - Accelerated epsilon decay schedule
+* **High Alpha Training** - Increased learning rate (0.001)
+* **Low Gamma Training** - Reduced discount factor (0.9)
 
-### Evaluation & Analysis
+### Evaluation
 
-* **[Performance Analysis](notebooks/06_performance_analysis.ipynb)** - Comparative analysis of all configurations
-* **[Model Testing](notebooks/09_model_testing.ipynb)** - Test trained agents over multiple episodes
+* **Performance Analysis** - Comparative analysis of all configurations
+* **Model Testing** - Test trained agents over multiple episodes
+
+[Training and Eval](Notebooks/airraid-rl-agent.ipynb)
+
 
 ### Inference & Visualization
 
-* **[Gameplay Visualization](notebooks/08_gameplay_visualization.ipynb)** - Real-time visualization with Q-values
+* **[Inference & Gameplay Visualization](Notebooks/Inference_viz.ipynb)** - Real-time visualization with Q-values
 
 ---
 

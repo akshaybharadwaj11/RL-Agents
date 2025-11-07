@@ -188,8 +188,8 @@ random.seed(42)
 - ROM: AirRaid (Atari 2600)
 
 ### Hardware Considerations
-- GPU >= 16GB
-- CPU >=16GB
+- GPU >= 8GB
+- CPU >= 8GB
 
 ## Future Experiments
 
