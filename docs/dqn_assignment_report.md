@@ -1,8 +1,8 @@
 # LLM Agents & Deep Q-Learning with Atari Games(AirRaid-v5) Assignment Report
 
-**Student:** Akshay Bharadwaj
-**Course:** INFO 7375 - Prompt Engineering and AI
-**Date:** November 7, 2025
+* **Student:** Akshay Bharadwaj
+* **Course:** INFO 7375 - Prompt Engineering and AI
+* **Date:** November 7, 2025
 
 ---
 
