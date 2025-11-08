@@ -2630,6 +2630,6 @@ torch.backends.cudnn.deterministic = True
 
 All trained models, training logs, and experimental data are available in the project repository:
 - Trained model checkpoints: `models/`
-- Gameplay videos: `results/videos/`
+- Gameplay videos: `visualizations/`
 
 ---
